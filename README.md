@@ -4,7 +4,7 @@ I'm Nicholas Del Buono, a Computer Engineering B.Sc. graduate from the Universit
 
 My favourite fields of study are Computer Architectures, Cybersecurity, and Low-level Designs - In a word? I'm in a relationship with hardware.
 
-  - 🎓 **B.Sc. Thesis:** [A modern architectural and programming analisys of Olivetti's Elea9003 Electronic Calculator](https://github.com/BluckWhite/Elea9003). 
+  - 🎓 **B.Sc. Thesis:** [A modern architectural and programming analisys of Olivetti's Elea9003 Electronic Calculator](https://github.com/NicholasDelBuono/Elea9003). 
 
 ## Tech Stack
 
@@ -18,7 +18,8 @@ My favourite fields of study are Computer Architectures, Cybersecurity, and Low-
 
 While my primary focus right now is my Master's degree, I am actively looking to expand my hands-on experience in **Hardware Security, Blue-Team InfoSec, and Computer Architecture design**, so if you're working on open-source projects, research, or need an engineer to collaborate with in these fields, email me.
 
-As of today, I'm not currently working on a specific project.
+As of today, I'm working on a VHDL implementation of a [Digital Front-End component](https://github.com/NicholasDelBuono/SDR-DigitalFrontEnd) for a SDR.
+<!--As of today, I'm not currently working on a specific project.-->
 
 ## My contacts
 
