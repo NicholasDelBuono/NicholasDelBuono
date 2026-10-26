@@ -18,7 +18,7 @@ My favourite fields of study are Computer Architectures, Cybersecurity, and Low-
 
 While my primary focus right now is my Master's degree, I am actively looking to expand my hands-on experience in **Hardware Security, Blue-Team InfoSec, and Computer Architecture design**, so if you're working on open-source projects, research, or need an engineer to collaborate with in these fields, email me.
 
-As of today, I'm working on a VHDL implementation of a [Digital Front-End component](https://github.com/NicholasDelBuono/SDR-DigitalFrontEnd) for a SDR.
+As of today, I'm implementing the [Digital Front-End component](https://github.com/NicholasDelBuono/SDR-DigitalFrontEnd) of a SDR in VHDL.
 <!--As of today, I'm not currently working on a specific project.-->
 
 ## My contacts
